@@ -1,0 +1,6 @@
+#fbPhotoStream ul {
+	height: 250px;
+	overflow: hidden;
+	display: block;
+	transition: 0.5s all ease-in-out;
+}
